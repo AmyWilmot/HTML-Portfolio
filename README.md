@@ -1,2 +1,2 @@
-# HTML-Portfolio
-HTML Portfolio Project_App Brewery 
+# html-portfolio
+html portfolio project_app brewery 
